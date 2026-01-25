@@ -1,4 +1,4 @@
 # alpined.work
-The aplined.work website
+The alpined.work website
 
-If you want you can just visit it on aplined.work
+If you want you can just visit it on alpined.work
