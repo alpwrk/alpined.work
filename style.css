@@ -65,3 +65,18 @@ hr {
   color: white;
   font-family: 'Bitcount Prop Single';
 }
+
+.back-btn {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+  color: gray;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+  color: white;
+}
